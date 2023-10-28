@@ -15,8 +15,8 @@ How to run program:
 Simply input these lines of code into your C compiler while main.c, SICOPS.txt and File.txt
 are both in your directory
 
-gcc main.c -o main
-./main Testfile.txt
+gcc main1.c -o main
+./main1 Testfile.txt
 
 
 Project 4 Documentation
@@ -32,5 +32,5 @@ How to run program:
 Simply input these lines of code into your C compiler while main.c, SICOPS.txt and F1.txt
 are both in your directory
 
-gcc main.c -o main
-./main f1.txt
+gcc main2.c -o main
+./main2 f1.txt
