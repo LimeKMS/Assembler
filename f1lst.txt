@@ -1,0 +1,27 @@
+***********************************************
+Liam Rigney n01450656: SIC/XE assembler
+version date 12/1/2022
+***********************************************
+ASSEMBLER REPORT
+----------------
+     Loc   Object Code       Source Code
+     ---   -----------       -----------
+001- 00100                   ADDRES    START    100                 
+002- .                                                       Comment test
+003- 00100 6B100116          NOW      +LDB      BEGIN        2nd Comment Test
+004- 00104                   XXX       BASE     BEGIN        
+005- 00104 03200C            YYY       LDA      BE           
+006- 00107 FFFFFF                      RESW     4          
+007- 00113 000002            BE        WORD     2         
+008- 00116 FFFFFF            BEGIN     RESW     1              
+009- 00119 FFFFFF            JUNK      RESW     20         
+010- 00155 FFFFFF            THERE     RESW     1              
+011- 00158 032FBE            ZZZ       LDA      JUNK             
+012- 0015B 0F2FF7            MMM       STA      THERE          
+013- 0015E FFFFFF                      RESW     2200           
+014- 01B26 00004E                      WORD     78           
+015- 01B29 0000C8                      WORD     200             
+016- 01B2C 000000                      WORD     0           
+017- 01B2F 0001F4                      WORD     500      
+018- 01B32 9010                        ADDR     X,A
+019- 01B34                             END      NOW                   

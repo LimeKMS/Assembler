@@ -1,0 +1,19 @@
+ADDRES    START    100     
+.                                                       Comment test
+NOW      +LDB      BEGIN         2nd Comment Test
+XXX       BASE     BEGIN         
+YYY       LDA      BE            
+          RESW     4          
+BE        WORD     2         
+BEGIN     RESW     1               
+JUNK      RESW     20         
+THERE     RESW     1               
+ZZZ       LDA      JUNK              
+MMM       STA      THERE   
+          RESW     2200      
+          WORD     78      
+          WORD     200        
+          WORD     0            
+          WORD     500      
+          ADDR     X,A
+          END      NOW                    
