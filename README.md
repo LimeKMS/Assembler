@@ -17,6 +17,7 @@ Simply input these lines of code into your C compiler while main.c, SICOPS.txt a
 are both in your directory
 
 gcc main1.c -o main
+
 ./main1 Testfile.txt
 
 Project 4 Documentation
@@ -34,4 +35,5 @@ Simply input these lines of code into your C compiler while main.c, SICOPS.txt a
 are both in your directory
 
 gcc main2.c -o main
+
 ./main2 f1.txt
