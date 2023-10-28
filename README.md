@@ -1,7 +1,7 @@
 # Assembler
 Assembler made for Systems Software Projects 3 and 4, it completes pass 1 and 2.
 
-
+---------------------------------------------------------------------------------------------------------------
 Project 3 Documentation
 Pass 1 Assembler by Liam Rigney N01450656
 10/30/22
@@ -17,7 +17,7 @@ are both in your directory
 
 gcc main1.c -o main
 ./main1 Testfile.txt
-
+----------------------------------------------------------------------------------------------------------------
 
 Project 4 Documentation
 Pass 2 Assembler by Liam Rigney N01450656
